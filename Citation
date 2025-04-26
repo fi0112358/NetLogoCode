@@ -1,1 +1,8 @@
 CITATION.cff
+abstract: "Netlogo code tailored to run on a visual image"
+authors:
+  - family-names: Irving-Beck
+    given-names: Fiona
+date-released: "2025-04-26"
+repository-code: "https://github.com/citation-file-format/my-research-software"
+title: "Netlogo Image Model Code"
